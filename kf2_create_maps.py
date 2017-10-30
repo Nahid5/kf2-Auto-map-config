@@ -1,6 +1,6 @@
 #Author: Nahid Sarker
 #Date created: 10/8/2017
-#Date modified: 10/8/2017
+#Date modified: 10/30/2017
 #Purpose: Looks in current directory for all kf2 map files and writes it in the format of:
 '''
 [MAPNAME.kfm KFMapSummary]
