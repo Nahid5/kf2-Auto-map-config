@@ -1,4 +1,5 @@
 # **kf2-adding-maps-to-server**
+Made using python3
 
 To use:
 Drop this script to the folder where you have all of the maps (They must end in .kfm extenshion)

@@ -21,3 +21,4 @@ for map in arr_txt:
     f.write('MapAssociation=2\n')
     f.write('ScreenshotPathName=UI_MapPreview_TEX.UI_MapPreview_Placeholder\n')
     f.write('\n')
+f.close()
